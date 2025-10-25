@@ -3,7 +3,7 @@
 
 ## Team Members
 - Bright Ekeator (Team Lead) – 300318200
-- Ifeoluwa Aribo
+- Ifeoluwa Aribo - 300389564
 
 ## Project Overview
 This project combines mobile application security analysis and digital forensics.
