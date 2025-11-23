@@ -30,3 +30,34 @@ Today’s session focused on static security analysis of Android applications us
 ## Total Time Spent  
 **7.75 hours**
 
+
+
+# Daily Work Log - November 21, 2025  
+**Student Name:** Ifeoluwa Aribo  
+**Student Number:** 300389564  
+
+## Overview  
+Today's session focused on setting up the Mobile Security Framework (MobSF) environment, troubleshooting critical PDF generation functionality, and performing comprehensive static security analysis on Android applications. The goal was to establish a working security testing pipeline and generate detailed vulnerability reports.
+
+## Tasks Completed  
+- Installed and configured MobSF environment on the local system  
+- Installed wkhtmltopdf dependency and configured system environment variables  
+- Investigated and diagnosed PDF generation failure in MobSF reporting  
+- Located PDF module using project-wide search and identified missing pdfkit configuration  
+- Implemented code patch by adding wkhtmltopdf configuration to MobSF PDF handler  
+- Validated the fix by restarting MobSF and confirming PDF generation functionality  
+- Uploaded Tim Hortons APK into MobSF and performed complete static analysis  
+- Uploaded Reddit APK and conducted comprehensive security assessment  
+- Reviewed and analyzed security findings including permissions, code risks, and trackers  
+- Generated final PDF security reports for both applications using the repaired system  
+
+## Achievements  
+- Successfully established a fully functional MobSF security testing environment  
+- Diagnosed and resolved a critical PDF reporting issue through code-level troubleshooting  
+- Demonstrated proficiency in dependency management and environment configuration  
+- Generated comprehensive security assessment reports for two major applications  
+- Identified and documented key security findings including dangerous permissions and potential vulnerabilities  
+- Enhanced understanding of mobile application security testing methodologies and tools  
+
+## Total Time Spent  
+**6 hours, 20 minutes**
